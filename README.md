@@ -1,5 +1,5 @@
 # Workshop-01
 - Isaac Childers
-- picture here
+- ![alt text](lollang-1.jpg)
 - 2029
 - MalwareMinimizer
